@@ -1,0 +1,6 @@
+classes=2
+train=data/city/train.txt
+valid=data/city/valid.txt
+names=data/city/city.names
+backup=backup/
+eval=coco
